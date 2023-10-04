@@ -11,9 +11,9 @@ Motivated by a desire to improve patient care through the use of emerging AI tec
 
 FIGURE 1.  Flow of data through the web application
 
-[![Deployed App](https://img.shields.io/badge/-Deployed%20App-green?style=flat-square&link=https://renalconsults.com/aki/)](https://renalconsults.com/aki/)
+[![Deployed App](https://img.shields.io/badge/-Deployed%20App-green?style=for-the-badge&link=https://renalconsults.com/aki/)](https://renalconsults.com/aki/)
 <br />
-[![Github Page](https://img.shields.io/badge/-GitHub%20Page-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/rmhayden/aki-consult)](https://github.com/rmhayden/aki-consult)
+[![Github Page](https://img.shields.io/badge/-GitHub%20Page-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rmhayden/aki-consult)](https://github.com/rmhayden/aki-consult)
 
 <!-- [GitHub Page](https://github.com/rmhayden/aki-consult) -->
 
