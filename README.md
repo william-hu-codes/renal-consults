@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-# AKI CONSULT
+# Renal Consults
 
 ## INTRODUCTION
 
@@ -11,9 +11,11 @@ Motivated by a desire to improve patient care through the use of emerging AI tec
 
 FIGURE 1.  Flow of data through the web application
 
-[Deployed App](https://renalconsults.com/aki/)
+[![Deployed App](https://img.shields.io/badge/-Deployed%20App-green?style=flat-square&link=https://renalconsults.com/aki/)](https://renalconsults.com/aki/)
+<br />
+[![Github Page](https://img.shields.io/badge/-GitHub%20Page-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/rmhayden/aki-consult)](https://github.com/rmhayden/aki-consult)
 
-[GitHub Page](https://github.com/rmhayden/aki-consult)
+<!-- [GitHub Page](https://github.com/rmhayden/aki-consult) -->
 
 ## AI Integration
 What sets us apart is our integration with OpenAI, which provides valuable insights into potentially missed differential diagnoses and concerns, enhancing your diagnostic capabilities. Join us on this journey to elevate your practice and provide the best care possible. Welcome to a new era of healthcare with AKI Consult.
